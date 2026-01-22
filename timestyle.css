@@ -1,0 +1,50 @@
+* {
+    background-color: #4f4545;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+h1 {
+    color:white;
+    background-color: #4f4545;
+    padding-top: 2%;
+    padding-left: 2%;
+
+}
+
+label {
+    background-color:white;
+    font-weight: bold;
+    padding-left: 2%;
+    padding-bottom: 5%;
+}
+
+p {
+    background-color: white;
+    font-style: italic;
+    padding-left: 2%;
+    padding-top: 2%;
+}
+
+main{
+    background-color: white;
+    padding-bottom: 5%;
+
+}
+
+div {
+    background-color: white;
+}
+
+span {
+    color: rgb(223, 175, 15);
+    background-color: white;
+    
+
+}
+
+html {
+    background-image: url('../images/clock.jpg');
+    background-size:cover;
+}
